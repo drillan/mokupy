@@ -1,0 +1,2 @@
+# mokupy
+Pythonもくもく会
